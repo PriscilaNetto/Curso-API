@@ -9,7 +9,7 @@ const server = express();
 
 
 
-/*server.get('/curso/:id', (req, res) => {
+/*server.get('/curso/:id', (req, res) => {7
   const id = req.params.id;
   return res.json({`Curso: ${id}`});
 } */
